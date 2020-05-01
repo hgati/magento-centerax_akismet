@@ -1,0 +1,8 @@
+# app/code
+src/app/code/community/Centerax/Akismet/            app/code/community/Centerax/Akismet/
+
+# app/etc
+src/app/etc/modules/Centerax_Akismet.xml            app/etc/modules/Centerax_Akismet.xml
+
+# locale
+src/app/locale/en_US/Centerax_Akismet.csv   app/locale/en_US/Centerax_Akismet.csv

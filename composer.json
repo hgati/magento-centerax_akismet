@@ -1,0 +1,9 @@
+{
+  "name": "hgati/centerax-akismet",
+  "type": "magento-module",
+  "description": "Protect spam for magento",
+
+  "require": {
+	"magento-hackathon/magento-composer-installer": "*"
+  }
+}
